@@ -1,0 +1,122 @@
+=================================================
+ Emissor Go-Back-N
+=================================================
+Arquivo de origem  : C:\Users\geani\OneDrive\Área de Trabalho\Tudo\Faculdade\Redes\trabalho-gbn\trabalho-gbn\testes\resultados\arquivo_teste.bin
+Tamanho             : 1,00 MB
+Destino             : 127.0.0.1:5500 -> /c/Users/geani/OneDrive/Área de Trabalho/Tudo/Faculdade/Redes/trabalho-gbn/trabalho-gbn/testes/resultados/recebido_N4_p0.05.bin
+Janela (N)          : 4
+Prob. de perda      : 5,0%
+Total de pacotes    : 1024
+Hash MD5 (origem)   : 2add9921d4b732afd1f038891e3ab611
+
+Enviando handshake (tentativa 1/5)...
+Handshake confirmado pelo receptor.
+
+[TIMEOUT] Retransmitindo pacotes 5 até 8
+Enviados: 20/1024 | ACKs: 21 | Retransmissões: 4   
+[TIMEOUT] Retransmitindo pacotes 24 até 27
+Enviados: 40/1024 | ACKs: 43 | Retransmissões: 8   
+[TIMEOUT] Retransmitindo pacotes 37 até 40
+
+[TIMEOUT] Retransmitindo pacotes 39 até 42
+Enviados: 60/1024 | ACKs: 69 | Retransmissões: 16   
+[TIMEOUT] Retransmitindo pacotes 65 até 68
+
+[TIMEOUT] Retransmitindo pacotes 72 até 75
+
+[TIMEOUT] Retransmitindo pacotes 73 até 76
+Enviados: 80/1024 | ACKs: 98 | Retransmissões: 28   
+[TIMEOUT] Retransmitindo pacotes 89 até 92
+
+[TIMEOUT] Retransmitindo pacotes 95 até 98
+Enviados: 100/1024 | ACKs: 124 | Retransmissões: 36   
+[TIMEOUT] Retransmitindo pacotes 114 até 117
+Enviados: 120/1024 | ACKs: 147 | Retransmissões: 40   Enviados: 140/1024 | ACKs: 167 | Retransmissões: 40   
+[TIMEOUT] Retransmitindo pacotes 154 até 157
+Enviados: 160/1024 | ACKs: 190 | Retransmissões: 44   Enviados: 180/1024 | ACKs: 210 | Retransmissões: 44   Enviados: 200/1024 | ACKs: 230 | Retransmissões: 44   Enviados: 220/1024 | ACKs: 250 | Retransmissões: 44   Enviados: 240/1024 | ACKs: 270 | Retransmissões: 44   
+[TIMEOUT] Retransmitindo pacotes 241 até 244
+
+[TIMEOUT] Retransmitindo pacotes 241 até 244
+
+[TIMEOUT] Retransmitindo pacotes 243 até 246
+Enviados: 260/1024 | ACKs: 299 | Retransmissões: 56   
+[TIMEOUT] Retransmitindo pacotes 271 até 274
+Enviados: 280/1024 | ACKs: 322 | Retransmissões: 60   Enviados: 300/1024 | ACKs: 342 | Retransmissões: 60   
+[TIMEOUT] Retransmitindo pacotes 312 até 315
+Enviados: 320/1024 | ACKs: 365 | Retransmissões: 64   Enviados: 340/1024 | ACKs: 385 | Retransmissões: 64   
+[TIMEOUT] Retransmitindo pacotes 353 até 356
+
+[TIMEOUT] Retransmitindo pacotes 355 até 358
+Enviados: 360/1024 | ACKs: 411 | Retransmissões: 72   Enviados: 380/1024 | ACKs: 431 | Retransmissões: 72   Enviados: 400/1024 | ACKs: 452 | Retransmissões: 72   
+[TIMEOUT] Retransmitindo pacotes 403 até 406
+
+[TIMEOUT] Retransmitindo pacotes 411 até 414
+
+[TIMEOUT] Retransmitindo pacotes 415 até 418
+Enviados: 420/1024 | ACKs: 480 | Retransmissões: 84   
+[TIMEOUT] Retransmitindo pacotes 421 até 424
+
+[TIMEOUT] Retransmitindo pacotes 435 até 438
+Enviados: 440/1024 | ACKs: 508 | Retransmissões: 92   
+[TIMEOUT] Retransmitindo pacotes 445 até 448
+Enviados: 460/1024 | ACKs: 529 | Retransmissões: 96   Enviados: 480/1024 | ACKs: 549 | Retransmissões: 96   Enviados: 500/1024 | ACKs: 569 | Retransmissões: 96   
+[TIMEOUT] Retransmitindo pacotes 501 até 504
+
+[TIMEOUT] Retransmitindo pacotes 508 até 511
+Enviados: 520/1024 | ACKs: 595 | Retransmissões: 104   Enviados: 540/1024 | ACKs: 615 | Retransmissões: 104   
+[TIMEOUT] Retransmitindo pacotes 537 até 540
+Enviados: 560/1024 | ACKs: 640 | Retransmissões: 108   
+[TIMEOUT] Retransmitindo pacotes 563 até 566
+
+[TIMEOUT] Retransmitindo pacotes 566 até 569
+Enviados: 580/1024 | ACKs: 664 | Retransmissões: 116   
+[TIMEOUT] Retransmitindo pacotes 587 até 590
+Enviados: 600/1024 | ACKs: 687 | Retransmissões: 120   
+[TIMEOUT] Retransmitindo pacotes 612 até 615
+
+[TIMEOUT] Retransmitindo pacotes 613 até 616
+Enviados: 620/1024 | ACKs: 713 | Retransmissões: 128   
+[TIMEOUT] Retransmitindo pacotes 619 até 622
+Enviados: 640/1024 | ACKs: 736 | Retransmissões: 132   
+[TIMEOUT] Retransmitindo pacotes 645 até 648
+
+[TIMEOUT] Retransmitindo pacotes 649 até 652
+Enviados: 660/1024 | ACKs: 762 | Retransmissões: 140   Enviados: 680/1024 | ACKs: 782 | Retransmissões: 140   Enviados: 700/1024 | ACKs: 802 | Retransmissões: 140   
+[TIMEOUT] Retransmitindo pacotes 708 até 711
+
+[TIMEOUT] Retransmitindo pacotes 708 até 711
+Enviados: 720/1024 | ACKs: 828 | Retransmissões: 148   
+[TIMEOUT] Retransmitindo pacotes 726 até 729
+Enviados: 740/1024 | ACKs: 851 | Retransmissões: 152   Enviados: 760/1024 | ACKs: 871 | Retransmissões: 152   
+[TIMEOUT] Retransmitindo pacotes 768 até 771
+Enviados: 780/1024 | ACKs: 894 | Retransmissões: 156   Enviados: 800/1024 | ACKs: 914 | Retransmissões: 156   
+[TIMEOUT] Retransmitindo pacotes 814 até 817
+Enviados: 820/1024 | ACKs: 937 | Retransmissões: 160   
+[TIMEOUT] Retransmitindo pacotes 821 até 824
+Enviados: 840/1024 | ACKs: 961 | Retransmissões: 164   
+[TIMEOUT] Retransmitindo pacotes 837 até 840
+
+[TIMEOUT] Retransmitindo pacotes 837 até 840
+
+[TIMEOUT] Retransmitindo pacotes 849 até 852
+
+[TIMEOUT] Retransmitindo pacotes 852 até 855
+
+[TIMEOUT] Retransmitindo pacotes 854 até 857
+Enviados: 860/1024 | ACKs: 995 | Retransmissões: 184   
+[TIMEOUT] Retransmitindo pacotes 860 até 863
+
+[TIMEOUT] Retransmitindo pacotes 864 até 867
+
+[TIMEOUT] Retransmitindo pacotes 870 até 873
+Enviados: 880/1024 | ACKs: 1024 | Retransmissões: 196   Enviados: 900/1024 | ACKs: 1045 | Retransmissões: 196   Enviados: 920/1024 | ACKs: 1064 | Retransmissões: 196   Enviados: 940/1024 | ACKs: 1084 | Retransmissões: 196   Enviados: 960/1024 | ACKs: 1104 | Retransmissões: 196   Enviados: 980/1024 | ACKs: 1124 | Retransmissões: 196   Enviados: 1000/1024 | ACKs: 1144 | Retransmissões: 196   Enviados: 1020/1024 | ACKs: 1164 | Retransmissões: 196   Enviados: 1024/1024 | ACKs: 1169 | Retransmissões: 196   Enviando FIN (tentativa 1/5)...
+FIN confirmado pelo receptor.
+
+=========== ESTATÍSTICAS DA TRANSMISSÃO ===========
+Pacotes de dados (distintos)  : 1024
+Pacotes enviados (c/ retrans.): 1220
+Retransmissões                : 196
+ACKs recebidos                : 1171
+Tempo total                   : 49210 ms
+Throughput estimado            : 20,81 KB/s
+=====================================================

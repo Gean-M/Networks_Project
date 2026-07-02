@@ -1,0 +1,620 @@
+=================================================
+ Emissor Go-Back-N
+=================================================
+Arquivo de origem  : C:\Users\geani\OneDrive\Área de Trabalho\Tudo\Faculdade\Redes\trabalho-gbn\trabalho-gbn\testes\resultados\arquivo_teste.bin
+Tamanho             : 1,00 MB
+Destino             : 127.0.0.1:5500 -> /c/Users/geani/OneDrive/Área de Trabalho/Tudo/Faculdade/Redes/trabalho-gbn/trabalho-gbn/testes/resultados/recebido_N2_p0.20.bin
+Janela (N)          : 2
+Prob. de perda      : 20,0%
+Total de pacotes    : 1024
+Hash MD5 (origem)   : 2add9921d4b732afd1f038891e3ab611
+
+Enviando handshake (tentativa 1/5)...
+Handshake confirmado pelo receptor.
+
+[TIMEOUT] Retransmitindo pacotes 1 até 2
+
+[TIMEOUT] Retransmitindo pacotes 6 até 7
+
+[TIMEOUT] Retransmitindo pacotes 8 até 9
+
+[TIMEOUT] Retransmitindo pacotes 13 até 14
+
+[TIMEOUT] Retransmitindo pacotes 14 até 15
+Enviados: 20/1024 | ACKs: 24 | Retransmissões: 10   
+[TIMEOUT] Retransmitindo pacotes 20 até 21
+
+[TIMEOUT] Retransmitindo pacotes 21 até 22
+
+[TIMEOUT] Retransmitindo pacotes 21 até 22
+
+[TIMEOUT] Retransmitindo pacotes 22 até 23
+
+[TIMEOUT] Retransmitindo pacotes 28 até 29
+
+[TIMEOUT] Retransmitindo pacotes 29 até 30
+
+[TIMEOUT] Retransmitindo pacotes 32 até 33
+
+[TIMEOUT] Retransmitindo pacotes 35 até 36
+Enviados: 40/1024 | ACKs: 52 | Retransmissões: 26   
+[TIMEOUT] Retransmitindo pacotes 45 até 46
+
+[TIMEOUT] Retransmitindo pacotes 46 até 47
+
+[TIMEOUT] Retransmitindo pacotes 53 até 54
+
+[TIMEOUT] Retransmitindo pacotes 56 até 57
+
+[TIMEOUT] Retransmitindo pacotes 56 até 57
+
+[TIMEOUT] Retransmitindo pacotes 56 até 57
+Enviados: 60/1024 | ACKs: 77 | Retransmissões: 38   
+[TIMEOUT] Retransmitindo pacotes 58 até 59
+
+[TIMEOUT] Retransmitindo pacotes 58 até 59
+
+[TIMEOUT] Retransmitindo pacotes 59 até 60
+
+[TIMEOUT] Retransmitindo pacotes 61 até 62
+
+[TIMEOUT] Retransmitindo pacotes 66 até 67
+
+[TIMEOUT] Retransmitindo pacotes 76 até 77
+Enviados: 80/1024 | ACKs: 104 | Retransmissões: 50   
+[TIMEOUT] Retransmitindo pacotes 80 até 81
+
+[TIMEOUT] Retransmitindo pacotes 90 até 91
+Enviados: 100/1024 | ACKs: 126 | Retransmissões: 54   
+[TIMEOUT] Retransmitindo pacotes 111 até 112
+
+[TIMEOUT] Retransmitindo pacotes 113 até 114
+Enviados: 120/1024 | ACKs: 149 | Retransmissões: 58   
+[TIMEOUT] Retransmitindo pacotes 123 até 124
+
+[TIMEOUT] Retransmitindo pacotes 128 até 129
+
+[TIMEOUT] Retransmitindo pacotes 128 até 129
+
+[TIMEOUT] Retransmitindo pacotes 128 até 129
+
+[TIMEOUT] Retransmitindo pacotes 129 até 130
+
+[TIMEOUT] Retransmitindo pacotes 134 até 135
+Enviados: 140/1024 | ACKs: 174 | Retransmissões: 70   
+[TIMEOUT] Retransmitindo pacotes 139 até 140
+
+[TIMEOUT] Retransmitindo pacotes 143 até 144
+
+[TIMEOUT] Retransmitindo pacotes 144 até 145
+
+[TIMEOUT] Retransmitindo pacotes 155 até 156
+
+[TIMEOUT] Retransmitindo pacotes 155 até 156
+Enviados: 160/1024 | ACKs: 199 | Retransmissões: 80   
+[TIMEOUT] Retransmitindo pacotes 164 até 165
+
+[TIMEOUT] Retransmitindo pacotes 173 até 174
+
+[TIMEOUT] Retransmitindo pacotes 175 até 176
+Enviados: 180/1024 | ACKs: 222 | Retransmissões: 86   
+[TIMEOUT] Retransmitindo pacotes 189 até 190
+
+[TIMEOUT] Retransmitindo pacotes 190 até 191
+
+[TIMEOUT] Retransmitindo pacotes 191 até 192
+Enviados: 200/1024 | ACKs: 245 | Retransmissões: 92   
+[TIMEOUT] Retransmitindo pacotes 201 até 202
+
+[TIMEOUT] Retransmitindo pacotes 213 até 214
+Enviados: 220/1024 | ACKs: 266 | Retransmissões: 96   
+[TIMEOUT] Retransmitindo pacotes 218 até 219
+
+[TIMEOUT] Retransmitindo pacotes 220 até 221
+
+[TIMEOUT] Retransmitindo pacotes 220 até 221
+
+[TIMEOUT] Retransmitindo pacotes 225 até 226
+
+[TIMEOUT] Retransmitindo pacotes 226 até 227
+
+[TIMEOUT] Retransmitindo pacotes 228 até 229
+
+[TIMEOUT] Retransmitindo pacotes 231 até 232
+
+[TIMEOUT] Retransmitindo pacotes 232 até 233
+Enviados: 240/1024 | ACKs: 295 | Retransmissões: 112   
+[TIMEOUT] Retransmitindo pacotes 243 até 244
+
+[TIMEOUT] Retransmitindo pacotes 247 até 248
+
+[TIMEOUT] Retransmitindo pacotes 254 até 255
+Enviados: 260/1024 | ACKs: 317 | Retransmissões: 118   
+[TIMEOUT] Retransmitindo pacotes 258 até 259
+
+[TIMEOUT] Retransmitindo pacotes 260 até 261
+
+[TIMEOUT] Retransmitindo pacotes 261 até 262
+
+[TIMEOUT] Retransmitindo pacotes 263 até 264
+
+[TIMEOUT] Retransmitindo pacotes 269 até 270
+
+[TIMEOUT] Retransmitindo pacotes 270 até 271
+Enviados: 280/1024 | ACKs: 344 | Retransmissões: 130   
+[TIMEOUT] Retransmitindo pacotes 281 até 282
+
+[TIMEOUT] Retransmitindo pacotes 283 até 284
+
+[TIMEOUT] Retransmitindo pacotes 283 até 284
+
+[TIMEOUT] Retransmitindo pacotes 284 até 285
+
+[TIMEOUT] Retransmitindo pacotes 284 até 285
+
+[TIMEOUT] Retransmitindo pacotes 294 até 295
+Enviados: 300/1024 | ACKs: 370 | Retransmissões: 142   
+[TIMEOUT] Retransmitindo pacotes 301 até 302
+
+[TIMEOUT] Retransmitindo pacotes 302 até 303
+
+[TIMEOUT] Retransmitindo pacotes 304 até 305
+
+[TIMEOUT] Retransmitindo pacotes 305 até 306
+
+[TIMEOUT] Retransmitindo pacotes 306 até 307
+
+[TIMEOUT] Retransmitindo pacotes 306 até 307
+
+[TIMEOUT] Retransmitindo pacotes 306 até 307
+
+[TIMEOUT] Retransmitindo pacotes 307 até 308
+
+[TIMEOUT] Retransmitindo pacotes 312 até 313
+
+[TIMEOUT] Retransmitindo pacotes 315 até 316
+Enviados: 320/1024 | ACKs: 400 | Retransmissões: 162   
+[TIMEOUT] Retransmitindo pacotes 320 até 321
+
+[TIMEOUT] Retransmitindo pacotes 331 até 332
+
+[TIMEOUT] Retransmitindo pacotes 331 até 332
+
+[TIMEOUT] Retransmitindo pacotes 333 até 334
+
+[TIMEOUT] Retransmitindo pacotes 337 até 338
+Enviados: 340/1024 | ACKs: 425 | Retransmissões: 172   
+[TIMEOUT] Retransmitindo pacotes 348 até 349
+
+[TIMEOUT] Retransmitindo pacotes 355 até 356
+Enviados: 360/1024 | ACKs: 447 | Retransmissões: 176   
+[TIMEOUT] Retransmitindo pacotes 359 até 360
+
+[TIMEOUT] Retransmitindo pacotes 365 até 366
+
+[TIMEOUT] Retransmitindo pacotes 365 até 366
+
+[TIMEOUT] Retransmitindo pacotes 367 até 368
+Enviados: 380/1024 | ACKs: 471 | Retransmissões: 184   
+[TIMEOUT] Retransmitindo pacotes 383 até 384
+
+[TIMEOUT] Retransmitindo pacotes 385 até 386
+
+[TIMEOUT] Retransmitindo pacotes 386 até 387
+
+[TIMEOUT] Retransmitindo pacotes 388 até 389
+
+[TIMEOUT] Retransmitindo pacotes 392 até 393
+
+[TIMEOUT] Retransmitindo pacotes 394 até 395
+
+[TIMEOUT] Retransmitindo pacotes 394 até 395
+
+[TIMEOUT] Retransmitindo pacotes 397 até 398
+Enviados: 400/1024 | ACKs: 499 | Retransmissões: 200   
+[TIMEOUT] Retransmitindo pacotes 401 até 402
+
+[TIMEOUT] Retransmitindo pacotes 401 até 402
+
+[TIMEOUT] Retransmitindo pacotes 403 até 404
+
+[TIMEOUT] Retransmitindo pacotes 407 até 408
+
+[TIMEOUT] Retransmitindo pacotes 412 até 413
+
+[TIMEOUT] Retransmitindo pacotes 412 até 413
+
+[TIMEOUT] Retransmitindo pacotes 414 até 415
+
+[TIMEOUT] Retransmitindo pacotes 417 até 418
+Enviados: 420/1024 | ACKs: 527 | Retransmissões: 216   
+[TIMEOUT] Retransmitindo pacotes 420 até 421
+
+[TIMEOUT] Retransmitindo pacotes 425 até 426
+
+[TIMEOUT] Retransmitindo pacotes 428 até 429
+
+[TIMEOUT] Retransmitindo pacotes 428 até 429
+
+[TIMEOUT] Retransmitindo pacotes 430 até 431
+
+[TIMEOUT] Retransmitindo pacotes 431 até 432
+
+[TIMEOUT] Retransmitindo pacotes 431 até 432
+
+[TIMEOUT] Retransmitindo pacotes 431 até 432
+
+[TIMEOUT] Retransmitindo pacotes 437 até 438
+Enviados: 440/1024 | ACKs: 555 | Retransmissões: 234   
+[TIMEOUT] Retransmitindo pacotes 438 até 439
+
+[TIMEOUT] Retransmitindo pacotes 438 até 439
+
+[TIMEOUT] Retransmitindo pacotes 438 até 439
+
+[TIMEOUT] Retransmitindo pacotes 442 até 443
+
+[TIMEOUT] Retransmitindo pacotes 442 até 443
+
+[TIMEOUT] Retransmitindo pacotes 443 até 444
+
+[TIMEOUT] Retransmitindo pacotes 446 até 447
+
+[TIMEOUT] Retransmitindo pacotes 449 até 450
+
+[TIMEOUT] Retransmitindo pacotes 453 até 454
+
+[TIMEOUT] Retransmitindo pacotes 453 até 454
+
+[TIMEOUT] Retransmitindo pacotes 453 até 454
+
+[TIMEOUT] Retransmitindo pacotes 455 até 456
+
+[TIMEOUT] Retransmitindo pacotes 455 até 456
+
+[TIMEOUT] Retransmitindo pacotes 456 até 457
+Enviados: 460/1024 | ACKs: 589 | Retransmissões: 262   
+[TIMEOUT] Retransmitindo pacotes 458 até 459
+
+[TIMEOUT] Retransmitindo pacotes 461 até 462
+
+[TIMEOUT] Retransmitindo pacotes 462 até 463
+
+[TIMEOUT] Retransmitindo pacotes 462 até 463
+
+[TIMEOUT] Retransmitindo pacotes 474 até 475
+
+[TIMEOUT] Retransmitindo pacotes 475 até 476
+Enviados: 480/1024 | ACKs: 616 | Retransmissões: 274   
+[TIMEOUT] Retransmitindo pacotes 481 até 482
+
+[TIMEOUT] Retransmitindo pacotes 484 até 485
+
+[TIMEOUT] Retransmitindo pacotes 485 até 486
+
+[TIMEOUT] Retransmitindo pacotes 495 até 496
+
+[TIMEOUT] Retransmitindo pacotes 495 até 496
+Enviados: 500/1024 | ACKs: 641 | Retransmissões: 284   
+[TIMEOUT] Retransmitindo pacotes 501 até 502
+
+[TIMEOUT] Retransmitindo pacotes 507 até 508
+
+[TIMEOUT] Retransmitindo pacotes 510 até 511
+
+[TIMEOUT] Retransmitindo pacotes 510 até 511
+
+[TIMEOUT] Retransmitindo pacotes 510 até 511
+
+[TIMEOUT] Retransmitindo pacotes 513 até 514
+
+[TIMEOUT] Retransmitindo pacotes 513 até 514
+
+[TIMEOUT] Retransmitindo pacotes 514 até 515
+
+[TIMEOUT] Retransmitindo pacotes 514 até 515
+Enviados: 520/1024 | ACKs: 669 | Retransmissões: 302   
+[TIMEOUT] Retransmitindo pacotes 518 até 519
+
+[TIMEOUT] Retransmitindo pacotes 518 até 519
+
+[TIMEOUT] Retransmitindo pacotes 518 até 519
+
+[TIMEOUT] Retransmitindo pacotes 520 até 521
+
+[TIMEOUT] Retransmitindo pacotes 528 até 529
+
+[TIMEOUT] Retransmitindo pacotes 537 até 538
+Enviados: 540/1024 | ACKs: 696 | Retransmissões: 314   
+[TIMEOUT] Retransmitindo pacotes 539 até 540
+
+[TIMEOUT] Retransmitindo pacotes 540 até 541
+
+[TIMEOUT] Retransmitindo pacotes 542 até 543
+
+[TIMEOUT] Retransmitindo pacotes 544 até 545
+
+[TIMEOUT] Retransmitindo pacotes 546 até 547
+
+[TIMEOUT] Retransmitindo pacotes 547 até 548
+
+[TIMEOUT] Retransmitindo pacotes 551 até 552
+
+[TIMEOUT] Retransmitindo pacotes 553 até 554
+Enviados: 560/1024 | ACKs: 724 | Retransmissões: 330   
+[TIMEOUT] Retransmitindo pacotes 559 até 560
+
+[TIMEOUT] Retransmitindo pacotes 560 até 561
+
+[TIMEOUT] Retransmitindo pacotes 569 até 570
+
+[TIMEOUT] Retransmitindo pacotes 574 até 575
+
+[TIMEOUT] Retransmitindo pacotes 577 até 578
+Enviados: 580/1024 | ACKs: 749 | Retransmissões: 340   
+[TIMEOUT] Retransmitindo pacotes 579 até 580
+
+[TIMEOUT] Retransmitindo pacotes 593 até 594
+
+[TIMEOUT] Retransmitindo pacotes 594 até 595
+Enviados: 600/1024 | ACKs: 772 | Retransmissões: 346   
+[TIMEOUT] Retransmitindo pacotes 599 até 600
+
+[TIMEOUT] Retransmitindo pacotes 602 até 603
+
+[TIMEOUT] Retransmitindo pacotes 605 até 606
+
+[TIMEOUT] Retransmitindo pacotes 605 até 606
+
+[TIMEOUT] Retransmitindo pacotes 610 até 611
+
+[TIMEOUT] Retransmitindo pacotes 616 até 617
+Enviados: 620/1024 | ACKs: 798 | Retransmissões: 358   
+[TIMEOUT] Retransmitindo pacotes 619 até 620
+
+[TIMEOUT] Retransmitindo pacotes 619 até 620
+
+[TIMEOUT] Retransmitindo pacotes 620 até 621
+
+[TIMEOUT] Retransmitindo pacotes 628 até 629
+Enviados: 640/1024 | ACKs: 822 | Retransmissões: 366   
+[TIMEOUT] Retransmitindo pacotes 641 até 642
+
+[TIMEOUT] Retransmitindo pacotes 642 até 643
+
+[TIMEOUT] Retransmitindo pacotes 648 até 649
+
+[TIMEOUT] Retransmitindo pacotes 653 até 654
+
+[TIMEOUT] Retransmitindo pacotes 653 até 654
+Enviados: 660/1024 | ACKs: 847 | Retransmissões: 376   
+[TIMEOUT] Retransmitindo pacotes 659 até 660
+
+[TIMEOUT] Retransmitindo pacotes 660 até 661
+
+[TIMEOUT] Retransmitindo pacotes 660 até 661
+
+[TIMEOUT] Retransmitindo pacotes 666 até 667
+
+[TIMEOUT] Retransmitindo pacotes 667 até 668
+
+[TIMEOUT] Retransmitindo pacotes 672 até 673
+
+[TIMEOUT] Retransmitindo pacotes 673 até 674
+Enviados: 680/1024 | ACKs: 873 | Retransmissões: 390   
+[TIMEOUT] Retransmitindo pacotes 678 até 679
+
+[TIMEOUT] Retransmitindo pacotes 679 até 680
+
+[TIMEOUT] Retransmitindo pacotes 681 até 682
+
+[TIMEOUT] Retransmitindo pacotes 683 até 684
+
+[TIMEOUT] Retransmitindo pacotes 683 até 684
+
+[TIMEOUT] Retransmitindo pacotes 684 até 685
+
+[TIMEOUT] Retransmitindo pacotes 689 até 690
+
+[TIMEOUT] Retransmitindo pacotes 691 até 692
+
+[TIMEOUT] Retransmitindo pacotes 693 até 694
+
+[TIMEOUT] Retransmitindo pacotes 695 até 696
+Enviados: 700/1024 | ACKs: 904 | Retransmissões: 410   
+[TIMEOUT] Retransmitindo pacotes 699 até 700
+
+[TIMEOUT] Retransmitindo pacotes 699 até 700
+
+[TIMEOUT] Retransmitindo pacotes 709 até 710
+
+[TIMEOUT] Retransmitindo pacotes 711 até 712
+
+[TIMEOUT] Retransmitindo pacotes 715 até 716
+Enviados: 720/1024 | ACKs: 929 | Retransmissões: 420   
+[TIMEOUT] Retransmitindo pacotes 721 até 722
+
+[TIMEOUT] Retransmitindo pacotes 722 até 723
+
+[TIMEOUT] Retransmitindo pacotes 726 até 727
+
+[TIMEOUT] Retransmitindo pacotes 732 até 733
+
+[TIMEOUT] Retransmitindo pacotes 732 até 733
+
+[TIMEOUT] Retransmitindo pacotes 737 até 738
+Enviados: 740/1024 | ACKs: 954 | Retransmissões: 432   
+[TIMEOUT] Retransmitindo pacotes 738 até 739
+
+[TIMEOUT] Retransmitindo pacotes 741 até 742
+
+[TIMEOUT] Retransmitindo pacotes 742 até 743
+
+[TIMEOUT] Retransmitindo pacotes 744 até 745
+
+[TIMEOUT] Retransmitindo pacotes 746 até 747
+
+[TIMEOUT] Retransmitindo pacotes 753 até 754
+
+[TIMEOUT] Retransmitindo pacotes 757 até 758
+Enviados: 760/1024 | ACKs: 982 | Retransmissões: 446   
+[TIMEOUT] Retransmitindo pacotes 759 até 760
+
+[TIMEOUT] Retransmitindo pacotes 760 até 761
+
+[TIMEOUT] Retransmitindo pacotes 760 até 761
+
+[TIMEOUT] Retransmitindo pacotes 767 até 768
+
+[TIMEOUT] Retransmitindo pacotes 770 até 771
+
+[TIMEOUT] Retransmitindo pacotes 771 até 772
+
+[TIMEOUT] Retransmitindo pacotes 776 até 777
+Enviados: 780/1024 | ACKs: 1009 | Retransmissões: 460   
+[TIMEOUT] Retransmitindo pacotes 781 até 782
+
+[TIMEOUT] Retransmitindo pacotes 784 até 785
+
+[TIMEOUT] Retransmitindo pacotes 784 até 785
+
+[TIMEOUT] Retransmitindo pacotes 791 até 792
+
+[TIMEOUT] Retransmitindo pacotes 796 até 797
+
+[TIMEOUT] Retransmitindo pacotes 796 até 797
+Enviados: 800/1024 | ACKs: 1035 | Retransmissões: 472   
+[TIMEOUT] Retransmitindo pacotes 803 até 804
+
+[TIMEOUT] Retransmitindo pacotes 803 até 804
+
+[TIMEOUT] Retransmitindo pacotes 803 até 804
+
+[TIMEOUT] Retransmitindo pacotes 804 até 805
+
+[TIMEOUT] Retransmitindo pacotes 807 até 808
+
+[TIMEOUT] Retransmitindo pacotes 810 até 811
+
+[TIMEOUT] Retransmitindo pacotes 814 até 815
+Enviados: 820/1024 | ACKs: 1062 | Retransmissões: 486   
+[TIMEOUT] Retransmitindo pacotes 823 até 824
+
+[TIMEOUT] Retransmitindo pacotes 828 até 829
+
+[TIMEOUT] Retransmitindo pacotes 828 até 829
+
+[TIMEOUT] Retransmitindo pacotes 834 até 835
+
+[TIMEOUT] Retransmitindo pacotes 836 até 837
+Enviados: 840/1024 | ACKs: 1086 | Retransmissões: 496   
+[TIMEOUT] Retransmitindo pacotes 838 até 839
+
+[TIMEOUT] Retransmitindo pacotes 838 até 839
+
+[TIMEOUT] Retransmitindo pacotes 838 até 839
+
+[TIMEOUT] Retransmitindo pacotes 840 até 841
+
+[TIMEOUT] Retransmitindo pacotes 842 até 843
+
+[TIMEOUT] Retransmitindo pacotes 842 até 843
+
+[TIMEOUT] Retransmitindo pacotes 848 até 849
+Enviados: 860/1024 | ACKs: 1114 | Retransmissões: 510   
+[TIMEOUT] Retransmitindo pacotes 859 até 860
+
+[TIMEOUT] Retransmitindo pacotes 872 até 873
+
+[TIMEOUT] Retransmitindo pacotes 874 até 875
+
+[TIMEOUT] Retransmitindo pacotes 874 até 875
+
+[TIMEOUT] Retransmitindo pacotes 877 até 878
+Enviados: 880/1024 | ACKs: 1139 | Retransmissões: 520   
+[TIMEOUT] Retransmitindo pacotes 880 até 881
+
+[TIMEOUT] Retransmitindo pacotes 883 até 884
+
+[TIMEOUT] Retransmitindo pacotes 891 até 892
+
+[TIMEOUT] Retransmitindo pacotes 891 até 892
+Enviados: 900/1024 | ACKs: 1163 | Retransmissões: 528   
+[TIMEOUT] Retransmitindo pacotes 914 até 915
+Enviados: 920/1024 | ACKs: 1184 | Retransmissões: 530   
+[TIMEOUT] Retransmitindo pacotes 919 até 920
+
+[TIMEOUT] Retransmitindo pacotes 931 até 932
+
+[TIMEOUT] Retransmitindo pacotes 932 até 933
+
+[TIMEOUT] Retransmitindo pacotes 935 até 936
+
+[TIMEOUT] Retransmitindo pacotes 937 até 938
+
+[TIMEOUT] Retransmitindo pacotes 937 até 938
+Enviados: 940/1024 | ACKs: 1210 | Retransmissões: 542   
+[TIMEOUT] Retransmitindo pacotes 949 até 950
+
+[TIMEOUT] Retransmitindo pacotes 949 até 950
+
+[TIMEOUT] Retransmitindo pacotes 954 até 955
+Enviados: 960/1024 | ACKs: 1233 | Retransmissões: 548   
+[TIMEOUT] Retransmitindo pacotes 961 até 962
+
+[TIMEOUT] Retransmitindo pacotes 963 até 964
+
+[TIMEOUT] Retransmitindo pacotes 963 até 964
+
+[TIMEOUT] Retransmitindo pacotes 966 até 967
+
+[TIMEOUT] Retransmitindo pacotes 974 até 975
+Enviados: 980/1024 | ACKs: 1258 | Retransmissões: 558   
+[TIMEOUT] Retransmitindo pacotes 981 até 982
+
+[TIMEOUT] Retransmitindo pacotes 981 até 982
+
+[TIMEOUT] Retransmitindo pacotes 981 até 982
+
+[TIMEOUT] Retransmitindo pacotes 986 até 987
+
+[TIMEOUT] Retransmitindo pacotes 986 até 987
+
+[TIMEOUT] Retransmitindo pacotes 987 até 988
+
+[TIMEOUT] Retransmitindo pacotes 990 até 991
+
+[TIMEOUT] Retransmitindo pacotes 990 até 991
+
+[TIMEOUT] Retransmitindo pacotes 994 até 995
+
+[TIMEOUT] Retransmitindo pacotes 997 até 998
+Enviados: 1000/1024 | ACKs: 1288 | Retransmissões: 578   
+[TIMEOUT] Retransmitindo pacotes 1009 até 1010
+
+[TIMEOUT] Retransmitindo pacotes 1010 até 1011
+
+[TIMEOUT] Retransmitindo pacotes 1012 até 1013
+
+[TIMEOUT] Retransmitindo pacotes 1012 até 1013
+
+[TIMEOUT] Retransmitindo pacotes 1013 até 1014
+
+[TIMEOUT] Retransmitindo pacotes 1015 até 1016
+
+[TIMEOUT] Retransmitindo pacotes 1016 até 1017
+Enviados: 1020/1024 | ACKs: 1314 | Retransmissões: 592   
+[TIMEOUT] Retransmitindo pacotes 1018 até 1019
+
+[TIMEOUT] Retransmitindo pacotes 1019 até 1020
+Enviados: 1024/1024 | ACKs: 1321 | Retransmissões: 596   Enviando FIN (tentativa 1/5)...
+FIN confirmado pelo receptor.
+
+=========== ESTATÍSTICAS DA TRANSMISSÃO ===========
+Pacotes de dados (distintos)  : 1024
+Pacotes enviados (c/ retrans.): 1620
+Retransmissões                : 596
+ACKs recebidos                : 1322
+Tempo total                   : 298356 ms
+Throughput estimado            : 3,43 KB/s
+=====================================================

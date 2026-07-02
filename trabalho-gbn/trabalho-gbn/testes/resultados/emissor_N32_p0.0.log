@@ -1,0 +1,24 @@
+=================================================
+ Emissor Go-Back-N
+=================================================
+Arquivo de origem  : C:\Users\geani\OneDrive\Área de Trabalho\Tudo\Faculdade\Redes\trabalho-gbn\trabalho-gbn\testes\resultados\arquivo_teste.bin
+Tamanho             : 1,00 MB
+Destino             : 127.0.0.1:5500 -> /c/Users/geani/OneDrive/Área de Trabalho/Tudo/Faculdade/Redes/trabalho-gbn/trabalho-gbn/testes/resultados/recebido_N32_p0.0.bin
+Janela (N)          : 32
+Prob. de perda      : 0,0%
+Total de pacotes    : 1024
+Hash MD5 (origem)   : 2add9921d4b732afd1f038891e3ab611
+
+Enviando handshake (tentativa 1/5)...
+Handshake confirmado pelo receptor.
+Enviados: 20/1024 | ACKs: 1 | Retransmissões: 0   Enviados: 40/1024 | ACKs: 13 | Retransmissões: 0   Enviados: 60/1024 | ACKs: 44 | Retransmissões: 0   Enviados: 80/1024 | ACKs: 52 | Retransmissões: 0   Enviados: 100/1024 | ACKs: 69 | Retransmissões: 0   Enviados: 120/1024 | ACKs: 89 | Retransmissões: 0   Enviados: 140/1024 | ACKs: 110 | Retransmissões: 0   Enviados: 160/1024 | ACKs: 129 | Retransmissões: 0   Enviados: 180/1024 | ACKs: 150 | Retransmissões: 0   Enviados: 200/1024 | ACKs: 169 | Retransmissões: 0   Enviados: 220/1024 | ACKs: 189 | Retransmissões: 0   Enviados: 240/1024 | ACKs: 209 | Retransmissões: 0   Enviados: 260/1024 | ACKs: 231 | Retransmissões: 0   Enviados: 280/1024 | ACKs: 249 | Retransmissões: 0   Enviados: 300/1024 | ACKs: 269 | Retransmissões: 0   Enviados: 320/1024 | ACKs: 289 | Retransmissões: 0   Enviados: 340/1024 | ACKs: 309 | Retransmissões: 0   Enviados: 360/1024 | ACKs: 329 | Retransmissões: 0   Enviados: 380/1024 | ACKs: 349 | Retransmissões: 0   Enviados: 400/1024 | ACKs: 369 | Retransmissões: 0   Enviados: 420/1024 | ACKs: 389 | Retransmissões: 0   Enviados: 440/1024 | ACKs: 409 | Retransmissões: 0   Enviados: 460/1024 | ACKs: 429 | Retransmissões: 0   Enviados: 480/1024 | ACKs: 449 | Retransmissões: 0   Enviados: 500/1024 | ACKs: 469 | Retransmissões: 0   Enviados: 520/1024 | ACKs: 489 | Retransmissões: 0   Enviados: 540/1024 | ACKs: 510 | Retransmissões: 0   Enviados: 560/1024 | ACKs: 529 | Retransmissões: 0   Enviados: 580/1024 | ACKs: 552 | Retransmissões: 0   Enviados: 600/1024 | ACKs: 570 | Retransmissões: 0   Enviados: 620/1024 | ACKs: 590 | Retransmissões: 0   Enviados: 640/1024 | ACKs: 609 | Retransmissões: 0   Enviados: 660/1024 | ACKs: 629 | Retransmissões: 0   Enviados: 680/1024 | ACKs: 649 | Retransmissões: 0   Enviados: 700/1024 | ACKs: 669 | Retransmissões: 0   Enviados: 720/1024 | ACKs: 689 | Retransmissões: 0   Enviados: 740/1024 | ACKs: 709 | Retransmissões: 0   Enviados: 760/1024 | ACKs: 729 | Retransmissões: 0   Enviados: 780/1024 | ACKs: 749 | Retransmissões: 0   Enviados: 800/1024 | ACKs: 769 | Retransmissões: 0   Enviados: 820/1024 | ACKs: 789 | Retransmissões: 0   Enviados: 840/1024 | ACKs: 809 | Retransmissões: 0   Enviados: 860/1024 | ACKs: 829 | Retransmissões: 0   Enviados: 880/1024 | ACKs: 849 | Retransmissões: 0   Enviados: 900/1024 | ACKs: 869 | Retransmissões: 0   Enviados: 920/1024 | ACKs: 889 | Retransmissões: 0   Enviados: 940/1024 | ACKs: 909 | Retransmissões: 0   Enviados: 960/1024 | ACKs: 929 | Retransmissões: 0   Enviados: 980/1024 | ACKs: 950 | Retransmissões: 0   Enviados: 1000/1024 | ACKs: 969 | Retransmissões: 0   Enviados: 1020/1024 | ACKs: 989 | Retransmissões: 0   Enviados: 1024/1024 | ACKs: 995 | Retransmissões: 0   Enviando FIN (tentativa 1/5)...
+FIN confirmado pelo receptor.
+
+=========== ESTATÍSTICAS DA TRANSMISSÃO ===========
+Pacotes de dados (distintos)  : 1024
+Pacotes enviados (c/ retrans.): 1024
+Retransmissões                : 0
+ACKs recebidos                : 1024
+Tempo total                   : 311 ms
+Throughput estimado            : 3292,60 KB/s
+=====================================================

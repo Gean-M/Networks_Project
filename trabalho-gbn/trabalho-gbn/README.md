@@ -165,17 +165,8 @@ O código-fonte completo do Emissor e do Receptor está implementado,
 compilado e testado (veja a Seção 8). Ainda faltam, para a entrega
 completa pedida no enunciado:
 
-- [ ] **Relatório técnico em PDF** (mínimo 3 páginas) com decisões de
-      projeto, dificuldades, testes realizados e gráficos/tabelas
-      comparando diferentes N e probabilidades de perda. O script
-      `testes/executar_testes.sh` já automatiza a coleta desses dados em
-      CSV — falta rodá-lo no ambiente final e montar os gráficos/tabelas.
-- [ ] **Repositório Git** (GitHub/GitLab) com este código e o link enviado
-      pelo sistema da instituição.
 - [ ] Testar em **duas máquinas reais** na rede (não apenas localhost),
       como será exigido na apresentação ao vivo.
-- [ ] Definir e ensaiar a demonstração ao vivo (arquivo ≥ 1 MB, perda de
-      10%, conforme a Seção 6 do enunciado).
 
 ## 8. Testes já realizados
 

@@ -18,6 +18,7 @@ trabalho-gbn/
 │   ├── Receptor.java   # FSM do receptor GBN + simulação de perda + estatísticas
 │   └── Emissor.java    # FSM do emissor GBN (janela deslizante, timer, threads)
 ├── testes/
+│   ├── resultados/
 │   └── executar_testes.sh   # bateria de testes variando N e prob_perda (R8)
 └── README.md
 ```
